@@ -1,0 +1,15 @@
+{
+  "name": "shadow-reactor-8510",
+  "version": "0.1.0",
+  "generator": "PushForge Engine",
+  "capabilities": [
+    "ideate",
+    "compose",
+    "commit"
+  ],
+  "manifest": {
+    "entry": "src/index.ts",
+    "seed": 3175,
+    "createdAt": "2026-09-11T13:13:20.169Z"
+  }
+}
